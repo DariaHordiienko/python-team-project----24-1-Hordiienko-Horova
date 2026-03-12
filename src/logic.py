@@ -1,5 +1,4 @@
 import os
-from asyncio import tasks
 
 DB_PATH = "data/tasks.txt"
 
