@@ -8,7 +8,9 @@ _Functionality:_
 * keyword search.
 
 _Launch instructions:_
-
+1. Clone repository.
+2. Start program by python src/main.py (check if you have Python on your computer).
+3. Follow the text prompts in the console menu to add, view, search, or delete tasks.
 
 _Roles:_
 * Viktoriia Horova (Team Lead / Integrator) - responsible for the user interface and basic structure of the project; 
